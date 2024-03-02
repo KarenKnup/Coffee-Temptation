@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Coffee Temptation</h1> 
+  <h1>Temptation Cafe</h1> 
   <br>
   <img src="cafe2.png">
 </div>
