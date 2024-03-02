@@ -6,7 +6,7 @@
 
  <h2>:test_tube: Link</h2>
 
- - [Clique para testar o projeto](https://replit.com/@KarenKnup/Projeto-Sistema-do-Cafe-Temptation) **[PORTUGUÊS]**
+ - [Clique para testar o projeto](https://replit.com/@KarenKnup/Projeto-Cafe-Temptation) **[PORTUGUÊS]**
 
  - [Click to test the project](https://replit.com/@KarenKnup/Project-Coffee-Temptation) **[ENGLISH]**
 <br>
