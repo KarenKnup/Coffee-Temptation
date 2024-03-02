@@ -6,40 +6,40 @@
 
  <h2>:test_tube: Link</h2>
 
- - [Clique para testar o projeto](https://replit.com/@KarenKnup/Projeto-Sistema-do-Cafe-Temptation)
+ - [Click to test the project](https://replit.com/@KarenKnup/Projeto-Sistema-do-Cafe-Temptation)
 <br>
 
- <h2>:lock: Credenciais do 'ADMIN'</h2>
+ <h2>:lock: 'ADMIN' Credentials</h2>
  
 **`Login:`** admin
 <br>
-**`Senha:`** admin123
+**`Password:`** admin123
 
 <br>
  
- <h2>:pencil: Arquivos</h2>
+ <h2>:pencil: Files</h2>
  
- Nome | Função 
+ Name | Function 
 ---- | --------- 
-main.py | Página inicial, onde se escolhe a rota como cliente ou funcionário, e não há retorno 
-cardapio_atual.py | Todas as funções relacionados ao cardápio atual, ou seja, o último cardápio registrado 
-exit.py | Função para sair do sistema 
-`funcoes` funcionario.py | Todas as funções relacionadas ao funcionário 
-`funcoes` login.py | Caminho da tela inicial `main.py` para a tela do funcionário ou do cliente, além do caminho entre as telas  
-tabelas.py | Todas as tabelas do banco de dados
-altera_cardapio.py | Tela para altera o título de um determinado cardápio 
-altera_pedido.py | Tela para alterar um determinado pedido registrado
-altera_produto.py | Tela para alterar um determinado produto no cardápio atual
-cliente.py | Tela do cliente, onde se pode realizar o pedido 
-deleta_cardapio.py | Tela para deletar um determinado cardápio 
-deleta_pedido.py | Tela para deletar um determinado pedido 
-deleta_produto.py | Tela para deletar um determinado produto
-exibe_NF.py | Tela seguida de `cliente.py`, após clicar em 'Encerrar', para o cliente obter a nota fiscal 
-exibe_menu.py | Tela para visualizar o menu atual
-`paginas` login.py | Tela de login na tela da rota do Funcionário 
-`paginas` funcionario.py | Tela com todas as funcionalidades do Funcionário
-preparar.py | Tela com todos os pedidos pendentes 
-registra_cardapio.py | Tela de registro de um novo cardápio 
-registra_funcionario.py | Tela de registro de um novo funcionário
-registra_pedido.py | Tela de registro de um novo pedido na rota do Funcionário
-registra_produto.py | Tela de registro de um novo produto no cardápio atual
+main.py | Home page, where you choose your route as a customer or employee, and there is no return
+cardapio_atual.py | All functions related to the current menu, i.e. the last registered menu
+exit.py | Function to exit the system 
+`funcoes` funcionario.py | All employee-related functions 
+`funcoes` login.py | Path from the `main.py` home screen to the employee or customer screen, plus the path between screens  
+tabelas.py | All database tables
+altera_cardapio.py | Screen to change the title of a given menu
+altera_pedido.py | Screen to change a specific registered order
+altera_produto.py | Screen to change a specific product in the current menu
+cliente.py | Customer screen, where you can place the order
+deleta_cardapio.py | Screen to delete a specific menu
+deleta_pedido.py | Screen to delete a specific order
+deleta_produto.py | Screen to delete a specific product
+exibe_NF.py | Screen followed by `cliente.py`, after clicking on 'Close', for the customer to obtain the invoice
+exibe_menu.py | Screen to view the current menu
+`paginas` login.py | Login screen on the Employee route screen
+`paginas` funcionario.py | Screen with all Employee functionalities
+prepare.py | Screen with all pending orders
+registra_cardapio.py | Screen for registering a new menu
+registra_funcionario.py | New employee registration screen
+registra_pedido.py | Screen for registering a new order on the Employee route
+registra_produto.py | Screen for registering a new product in the current menu
