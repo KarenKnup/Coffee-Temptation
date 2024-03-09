@@ -4,6 +4,11 @@
   <img src="cafe2.png">
 </div>
 
+ <h2>:bulb: About</h2>
+The intention of this project was to create a simple system for a cafe using <strong>Python</strong> and <strong>Tkinter</strong>, where there will be the option for customers to place orders or, on another independent screen that is inaccessible to customers, employees can log in and place customer orders among other functions.
+
+<br>
+
  <h2>:test_tube: Link</h2>
 
  - [Clique para testar o projeto](https://replit.com/@KarenKnup/Projeto-Cafe-Temptation) **[PORTUGUÊS]**
